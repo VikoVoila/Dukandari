@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "59932834505",
+    "firebase_url": "https://dukandariapp-2e9b2.firebaseio.com",
+    "project_id": "dukandariapp-2e9b2",
+    "storage_bucket": "dukandariapp-2e9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59932834505:android:27ba8a0315df8474",
+        "android_client_info": {
+          "package_name": "com.example.dukandariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59932834505-r45bje1u77vha4mvgsvbtvrkjani5guf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbA7kBxbknXkdWkCu65yEbjFDg5m2JIsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
